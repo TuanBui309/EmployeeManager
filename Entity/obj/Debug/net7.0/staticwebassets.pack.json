@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\api\\20231022_BuiVanTuan_L1\\Entity\\Entity\\wwwroot\\Uploads\\avatar.jpg",
+      "PackagePath": "staticwebassets\\Uploads\\avatar.jpg"
+    },
+    {
+      "Id": "D:\\api\\20231022_BuiVanTuan_L1\\Entity\\Entity\\wwwroot\\Uploads\\dasdad.png",
+      "PackagePath": "staticwebassets\\Uploads\\dasdad.png"
+    },
+    {
+      "Id": "D:\\api\\20231022_BuiVanTuan_L1\\Entity\\Entity\\wwwroot\\Uploads\\dsad.txt",
+      "PackagePath": "staticwebassets\\Uploads\\dsad.txt"
+    },
+    {
+      "Id": "D:\\api\\20231022_BuiVanTuan_L1\\Entity\\Entity\\wwwroot\\Uploads\\employee (11).xlsx",
+      "PackagePath": "staticwebassets\\Uploads\\employee (11).xlsx"
+    },
+    {
+      "Id": "D:\\api\\20231022_BuiVanTuan_L1\\Entity\\Entity\\wwwroot\\Uploads\\employee (12).xlsx",
+      "PackagePath": "staticwebassets\\Uploads\\employee (12).xlsx"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Entity.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Entity.props",
+      "PackagePath": "build\\Entity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Entity.props",
+      "PackagePath": "buildMultiTargeting\\Entity.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Entity.props",
+      "PackagePath": "buildTransitive\\Entity.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
